@@ -1,0 +1,2 @@
+event_id,timestamp,source,user,src_ip,dst_ip,host,action,object,status,severity
+NET001,2026-09-09 09:25:14,network,student01,10.0.0.18,198.51.100.20,research-server,outbound_transfer,/tmp/research_archive.zip,success,critical
