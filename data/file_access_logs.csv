@@ -1,0 +1,3 @@
+event_id,timestamp,source,user,src_ip,dst_ip,host,action,object,status,severity
+FILE001,2026-09-09 09:18:30,file_access,student01,10.0.0.18,,research-server,file_read,/research/solar_grid_results.xlsx,success,high
+FILE002,2026-09-09 09:19:10,file_access,student01,10.0.0.18,,research-server,file_copy,/research/solar_grid_results.xlsx,success,high
