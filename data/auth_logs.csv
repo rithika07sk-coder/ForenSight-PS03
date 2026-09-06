@@ -1,0 +1,5 @@
+event_id,timestamp,source,user,src_ip,dst_ip,host,action,object,status,severity
+AUTH001,2026-09-09 09:06:10,authentication,student01,203.0.113.45,10.0.0.10,vpn-server,login_failed,VPN,failed,low
+AUTH002,2026-09-09 09:06:40,authentication,student01,203.0.113.45,10.0.0.10,vpn-server,login_failed,VPN,failed,low
+AUTH003,2026-09-09 09:07:15,authentication,student01,203.0.113.45,10.0.0.10,vpn-server,login_failed,VPN,failed,low
+AUTH004,2026-09-09 09:10:12,authentication,student01,203.0.113.45,10.0.0.10,vpn-server,login_success,VPN,success,high
